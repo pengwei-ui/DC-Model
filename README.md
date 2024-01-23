@@ -1,5 +1,5 @@
-<h2>DC:Double-Layer Contrastive Learning for Improving Conciseness of summarizations</h2>
+<h2>DC:Dual-Level Contrastive Learning for Improving Conciseness of summarizations</h2>
 
-This repo is for our paper "Double-Layer Contrastive Learning for Improving Conciseness of summarizations". 
+This repo is for our paper "Dual-Level Contrastive Learning for Improving Conciseness of summarizations". 
 
 **Code will be released soon, stay tuned!**

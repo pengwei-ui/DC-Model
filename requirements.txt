@@ -1,1 +1,16 @@
-
+absl_py==1.2.0
+comet==3.1.0
+cycler==0.11.0
+datasets==2.19.0
+jsonpath==0.82.2
+matplotlib==3.6.0
+nlpaug==1.1.11
+nltk==3.8.1
+numpy==1.23.3
+pandas==1.4.4
+sacrebleu==2.4.2
+setuptools==63.4.1
+six==1.16.0
+torch==1.12.1+cu113
+tqdm==4.64.1
+transformers==4.33.1

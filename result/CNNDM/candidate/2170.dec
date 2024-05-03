@@ -1,0 +1,7 @@
+Researchers at the University of Washington studied the telerobot Raven II  . 
+  They found that robots designed for surgery could be 'easily' hacked in to . 
+  This is because they are operated over public networks which allowed the researchers to access them and stop them working  . 
+  The experts were able to take control of a robot during surgery by exploiting a simple programming trick . 
+  This enabled them to change the speed of the arms of the robot and change their orientation . 
+  The research was carried out on the Raven II teleoperated robotical surgeon . 
+ 

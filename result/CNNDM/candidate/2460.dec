@@ -1,0 +1,11 @@
+Security researchers have discovered a way to intercept a person’s fingerprints on a Samsung Galaxy S5 running Android 4 . 
+ 4 and older  . 
+  The flaw lies in older versions of the Android operating system . 
+  When a fingerprint is scanned it is encrypted but this can be intercepted before the data is encrypted . 
+  Researchers from FireEye found the flaw in older models of Android . 
+  Anyone running Android 5 . 
+ 0 or older is not at risk . 
+  The vulnerability means that a hacker can access the kernel . 
+  Once inside they can monitor data recorded by the fingerprint scanner . 
+  The flaw was found on the Galaxy S4 and S5 but not the Galaxy Note 4 . 
+ 

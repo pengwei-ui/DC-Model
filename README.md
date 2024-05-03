@@ -2,7 +2,7 @@
 
 This repo is for our paper "Dual-Level Contrastive Learning for Improving Conciseness of Summarization". 
 
-#### Train
+### Train
 
 The training phase uses half-floating-point precision to accelerate the model training, the current code only realizes the training on a single GPU, does not realize the multi-card parallel training, the graphics card memory needs to meet more than 24GB.
 

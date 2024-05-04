@@ -2,9 +2,17 @@
 
 This repo is for our paper "Dual-Level Contrastive Learning for Improving Conciseness of Summarization". 
 
-#### Train
+### Background
 
-The training phase uses half-floating-point precision to accelerate the model training, the current code only realizes the training on a single GPU, does not realize the multi-card parallel training, the graphics card memory needs to meet more than 24GB.
+Our experiments are inspired by the paper BRIO, and the model mainly uses comparative learning, the general structure of the model is shown in Figure.
+
+<img src="D:\my_github_files\DC\DC-Model\images\model.png"></img>
+
+### Train
+
+- Environment：The training phase uses half-floating-point precision to accelerate the model training, the current code only realizes the training on a single GPU, does not realize the multi-card parallel training, the graphics card memory needs to meet more than 24GB. 
+
+- Dataset：The dataset format can be viewed as a json file in the data folder. If you want to use your own dataset you can use the generate_augmentation.py,  the code requires the original dataset to be in CSV format. Sorry, due to the requirements of our subsequent experiments, we did not provide the full results of the data enhancement, we only provided an example of it. You can directly download our prepared [CNNDM](https://drive.google.com/drive/folders/1Wl5Vfm0trZqTB8iTU6Z6ERUCp1zzf_2Q?usp=sharing) data in CSV format, which can be downloaded by clicking here, to generate the data after data enhancement.
 
 1. pytorch version >=1.12
 2. pip install -r requirements.txt

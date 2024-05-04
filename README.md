@@ -5,7 +5,7 @@ This repo is for our paper "Dual-Level Contrastive Learning for Improving Concis
 ### Background
 Our experiments are inspired by the paper BRIO, and the model mainly uses comparative learning, the general structure of the model is shown in Figure.
 
-<img src="D:\my_github_files\DC\DC-Model\images\model.png"></img>
+<img src=".\images\model.png"></img>
 
 ### Train
 
